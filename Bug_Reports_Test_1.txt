@@ -1,2 +1,23 @@
-Bug report 1 line
+1) Summary
+2) Project
+3) Component
+4) Version
+5) Severity
+	Blocker
+	Critical
+	Major
+	Minor
+	Trival
+6) Prioity
+	High
+	Medium
+	Low
+7) Status
+8) Author
+9) Assigned To
+10) OC
+11) Steps to Reproduce
+12) Actual Result
+13) Expected Result
+14) Attachments
 
