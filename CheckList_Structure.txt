@@ -1,0 +1,14 @@
+1) File Operations
+	File creation
+	File opening
+	Document save
+	Print
+2) File edit
+	Cancel
+	Copy
+	Cutting
+	Insert
+	Delete
+	Search
+	Search with replacement
+
